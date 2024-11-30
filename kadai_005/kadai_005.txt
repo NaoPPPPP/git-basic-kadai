@@ -26,16 +26,7 @@ SAMURAI\git_challenge> git commit -m "こんにちは、世界！を追加"
 [main 3195de0] こんにちは、世界！を追加
  1 file changed, 0 insertions(+), 0 deletions(-)
 
-SAMURAI\git_challenge> git log
-commit 3195de013e4a2bd69061bb617305b958c8e528a1 (HEAD -> main)
-Author: NaoPPPPP
-Date:   Sat Nov 30 13:30:59 2024 +0900
-
-    こんにちは、世界！を追加
-
-commit d98e2f62893889d5d2ef301dd422ef570087ea44
-Author: NaoPPPPP
-Date:   Sat Nov 30 13:26:25 2024 +0900
-
-    hello_world.txtを追加
-SAMURAI\git_challenge>
+SAMURAI\git\git_challenge> git log --oneline
+3195de0 (HEAD -> main) こんにちは、世界！を追加
+d98e2f6 hello_world.txtを追加
+SAMURAI\git\git_challenge>
